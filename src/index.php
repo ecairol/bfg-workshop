@@ -1,6 +1,10 @@
 
 <link rel="stylesheet" href="src/styles.css?v2">
 
+<script>
+	const endpoint = "my-billable-endpoint.cloudserver.com/v1/";
+</script>
+
 <article>
 	<h1>Welcome!</h1>
 	<h2>This is just a placeholder file to populate commits in the git history</h2>
